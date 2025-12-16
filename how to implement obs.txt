@@ -1,5 +1,0 @@
---->minimizing blocking probability and maximizing throughput
---->timer based or threshold based assembly algorithm 
---->supervised decion tree
---->unsupervised K-means
---->use fiber delay line or deflection routing for contention resolution
